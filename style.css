@@ -1,0 +1,405 @@
+/* ===== RESET & BASE ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 40px 60px;
+    transition: all 0.3s ease;
+}
+
+body.dark-mode {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+}
+
+/* ===== CONTAINER ===== */
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(20px);
+    border-radius: 24px;
+    padding: 40px 50px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+body.dark-mode .container {
+    background: rgba(30, 30, 46, 0.95);
+    color: #e0e0e0;
+}
+
+/* ===== HEADER ===== */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.header-left h1 {
+    font-size: 32px;
+    font-weight: 800;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+body.dark-mode .header-left h1 {
+    background: linear-gradient(135deg, #a8b4f0 0%, #c084d8 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.header-actions {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+/* ===== BUTTONS ===== */
+.btn {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    white-space: nowrap;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+}
+
+.btn-dark {
+    background: #2d2d44;
+    color: white;
+}
+
+.btn-dark:hover {
+    background: #3d3d5c;
+    transform: translateY(-2px);
+}
+
+body.dark-mode .btn-dark {
+    background: #4a4a6a;
+    color: white;
+}
+
+body.dark-mode .btn-dark:hover {
+    background: #5a5a7a;
+}
+
+/* ===== STATS BAR ===== */
+.stats-bar {
+    display: flex;
+    gap: 40px;
+    padding: 18px 24px;
+    background: rgba(102, 126, 234, 0.08);
+    border-radius: 16px;
+    margin-bottom: 25px;
+}
+
+body.dark-mode .stats-bar {
+    background: rgba(102, 126, 234, 0.12);
+}
+
+.stat-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.stat-item i {
+    font-size: 22px;
+    color: #667eea;
+    width: 28px;
+}
+
+body.dark-mode .stat-item i {
+    color: #a8b4f0;
+}
+
+.stat-item .number {
+    font-size: 26px;
+    font-weight: 800;
+    color: #2d2d44;
+}
+
+body.dark-mode .stat-item .number {
+    color: #e0e0e0;
+}
+
+.stat-item .label {
+    font-size: 15px;
+    color: #666;
+}
+
+body.dark-mode .stat-item .label {
+    color: #aaa;
+}
+
+/* ===== FILTERS ===== */
+.filters {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 30px;
+    padding: 20px 24px;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 16px;
+}
+
+body.dark-mode .filters {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.filter-group {
+    flex: 1;
+    position: relative;
+}
+
+.filter-group i {
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #999;
+    font-size: 16px;
+}
+
+.filter-group input,
+.filter-group select {
+    width: 100%;
+    padding: 12px 12px 12px 44px;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    font-size: 15px;
+    transition: all 0.3s ease;
+    background: white;
+    color: #2d2d44;
+    height: 52px;
+}
+
+body.dark-mode .filter-group input,
+body.dark-mode .filter-group select {
+    background: #2d2d44;
+    border-color: #4a4a6a;
+    color: #e0e0e0;
+}
+
+.filter-group input:focus,
+.filter-group select:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.15);
+}
+
+.filter-group select {
+    cursor: pointer;
+    appearance: auto;
+}
+
+/* ===== VACANCIES GRID (DESKTOP ONLY — 3 columns) ===== */
+.vacancies-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin-top: 5px;
+}
+
+/* ===== VACANCY CARD ===== */
+.vacancy-card {
+    background: white;
+    border-radius: 16px;
+    padding: 28px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 2px solid transparent;
+    position: relative;
+    overflow: hidden;
+    animation: fadeInUp 0.5s ease forwards;
+}
+
+body.dark-mode .vacancy-card {
+    background: #2d2d44;
+    border-color: #3d3d5c;
+}
+
+.vacancy-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+    border-color: #667eea;
+}
+
+body.dark-mode .vacancy-card:hover {
+    border-color: #a8b4f0;
+    box-shadow: 0 12px 40px rgba(102, 126, 234, 0.15);
+}
+
+.vacancy-card .badge-source {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    font-size: 11px;
+    padding: 4px 14px;
+    border-radius: 20px;
+    background: rgba(102, 126, 234, 0.12);
+    color: #667eea;
+    font-weight: 600;
+    text-transform: lowercase;
+}
+
+body.dark-mode .vacancy-card .badge-source {
+    background: rgba(102, 126, 234, 0.2);
+    color: #a8b4f0;
+}
+
+.vacancy-card .company-avatar {
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 16px;
+    flex-shrink: 0;
+}
+
+.vacancy-card .company-name {
+    font-size: 15px;
+    color: #666;
+    font-weight: 500;
+    margin-bottom: 6px;
+}
+
+body.dark-mode .vacancy-card .company-name {
+    color: #aaa;
+}
+
+.vacancy-card .title {
+    font-size: 19px;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-bottom: 8px;
+    line-height: 1.3;
+}
+
+body.dark-mode .vacancy-card .title {
+    color: #e0e0e0;
+}
+
+.vacancy-card .salary {
+    font-size: 22px;
+    font-weight: 800;
+    color: #2d2d44;
+    margin: 12px 0 18px;
+}
+
+body.dark-mode .vacancy-card .salary {
+    color: #c084d8;
+}
+
+.vacancy-card .link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    transition: all 0.3s ease;
+}
+
+.vacancy-card .link:hover {
+    gap: 14px;
+    color: #764ba2;
+}
+
+body.dark-mode .vacancy-card .link {
+    color: #a8b4f0;
+}
+
+body.dark-mode .vacancy-card .link:hover {
+    color: #c084d8;
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(24px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.vacancy-card:nth-child(1) { animation-delay: 0.05s; }
+.vacancy-card:nth-child(2) { animation-delay: 0.1s; }
+.vacancy-card:nth-child(3) { animation-delay: 0.15s; }
+.vacancy-card:nth-child(4) { animation-delay: 0.2s; }
+.vacancy-card:nth-child(5) { animation-delay: 0.25s; }
+.vacancy-card:nth-child(6) { animation-delay: 0.3s; }
+.vacancy-card:nth-child(7) { animation-delay: 0.35s; }
+.vacancy-card:nth-child(8) { animation-delay: 0.4s; }
+.vacancy-card:nth-child(9) { animation-delay: 0.45s; }
+
+/* ===== EMPTY STATE ===== */
+.empty-state {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 80px 20px;
+    color: #999;
+}
+
+.empty-state i {
+    font-size: 52px;
+    margin-bottom: 20px;
+    color: #ddd;
+}
+
+body.dark-mode .empty-state i {
+    color: #4a4a6a;
+}
+
+.empty-state p:first-of-type {
+    font-size: 20px;
+    font-weight: 600;
+    color: #666;
+}
+
+body.dark-mode .empty-state p:first-of-type {
+    color: #aaa;
+}
+
+.empty-state .btn {
+    margin-top: 20px;
+}

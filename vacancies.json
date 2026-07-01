@@ -1,0 +1,961 @@
+[
+  {
+    "company": "Action tech",
+    "title": "QA инженер (java/kotlin)",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000128807",
+    "source": "habr.com"
+  },
+  {
+    "company": "Amazon",
+    "title": "Стажёр-разработчик программного обеспечения",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazhjor-razrabotchik-programmnogo-obespecheniya-51826679.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Aston",
+    "title": "JavaScript разработчик (стажер)",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000167022",
+    "source": "habr.com"
+  },
+  {
+    "company": "Bell Integrator",
+    "title": "SDET / QA Automation (Java)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 253 000 - 300 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166430",
+    "source": "habr.com"
+  },
+  {
+    "company": "Bell Integrator",
+    "title": "FullStack QA (Java)",
+    "salary": "от 200 000 до 220 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166658",
+    "source": "habr.com"
+  },
+  {
+    "company": "CHOICEIT",
+    "title": "Quantitive Researcher",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000167243",
+    "source": "habr.com"
+  },
+  {
+    "company": "CHOICEIT",
+    "title": "ML Lead",
+    "salary": "Зарплата не указанаПохожие специалисты получают 386 000 - 528 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167263",
+    "source": "habr.com"
+  },
+  {
+    "company": "Coasthill IV LLC-FZ",
+    "title": "AI-инженер по автоматизации для музыкального лейбла",
+    "salary": "от 1300 до 1500 $",
+    "url": "https://career.habr.com/vacancies/1000166948",
+    "source": "habr.com"
+  },
+  {
+    "company": "Disney",
+    "title": "Стажер отдела операционной деятельности цифровых медиа",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-otdela-operacionnoj-deyatelnosti-cifrovyh-media-51782497.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Disney",
+    "title": "Стажер по автоматизации с использованием ИИ",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-po-avtomatizacii-s-ispolzovaniem-ii-51853174.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "DreamWorks",
+    "title": "Инженер по искусственному интеллекту",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/inzhener-po-iskusstvennomu-intellektu-51824510.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Extyl",
+    "title": "ML разработчик / Проектная работа / АУТСТАФФ",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166988",
+    "source": "habr.com"
+  },
+  {
+    "company": "Extyl",
+    "title": "Специалист по функциональному тестированию / Проектная работа / АУТСТАФФ",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000167052",
+    "source": "habr.com"
+  },
+  {
+    "company": "Extyl",
+    "title": "Специалист по функциональному тестированию / Проектная работа / АУТСТАФФ",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166922",
+    "source": "habr.com"
+  },
+  {
+    "company": "Extyl",
+    "title": "Специалист по функциональному тестированию / Проектная работа / АУТСТАФФ",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166921",
+    "source": "habr.com"
+  },
+  {
+    "company": "Extyl",
+    "title": "Специалист по автоматизации тестирования на С# / Проектная работа / АУТСТАФФ",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000167053",
+    "source": "habr.com"
+  },
+  {
+    "company": "Extyl",
+    "title": "Angular разработчик / Проектная работа / АУТСТАФФ",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166897",
+    "source": "habr.com"
+  },
+  {
+    "company": "Extyl",
+    "title": "Разработчик Angular / Проектная работа / АУТСТАФФ",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000167289",
+    "source": "habr.com"
+  },
+  {
+    "company": "Extyl",
+    "title": "BI-разработчик / Data-инженер / Проектная работа / АУТСТАФФ",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166973",
+    "source": "habr.com"
+  },
+  {
+    "company": "Figma",
+    "title": "Инженер-программист C++",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/inzhener-programmist-c-52008995.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Flowwow",
+    "title": "Специалист по автоматизации",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/specialist-po-avtomatizacii-51994500.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Genue",
+    "title": "Full-stack разработчик (Bitrix + AI), middle+/senior в студию «Луч»",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166633",
+    "source": "habr.com"
+  },
+  {
+    "company": "Hireway",
+    "title": "Python Developer",
+    "salary": "от 300 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166963",
+    "source": "habr.com"
+  },
+  {
+    "company": "Hireway",
+    "title": "Frontend Developer",
+    "salary": "от 4000 €",
+    "url": "https://career.habr.com/vacancies/1000166848",
+    "source": "habr.com"
+  },
+  {
+    "company": "IBS",
+    "title": "Преподаватель IT дисциплин, тренер, эксперт",
+    "salary": "Зарплата не указанаПохожие специалисты получают 485 000 - 535 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000152573",
+    "source": "habr.com"
+  },
+  {
+    "company": "IT-hunter",
+    "title": "Senior Python Developer",
+    "salary": "Зарплата не указанаПохожие специалисты получают 183 000 - 319 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166718",
+    "source": "habr.com"
+  },
+  {
+    "company": "ITFB Group",
+    "title": "QA Automation Python (гибрид, Москва)",
+    "salary": "до 200 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166531",
+    "source": "habr.com"
+  },
+  {
+    "company": "ITFB Group",
+    "title": "QA Automation Java (гибрид, Москва)",
+    "salary": "до 200 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166533",
+    "source": "habr.com"
+  },
+  {
+    "company": "ITK academy",
+    "title": "Python Developer",
+    "salary": "от 75 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000163346",
+    "source": "habr.com"
+  },
+  {
+    "company": "ITK academy",
+    "title": "AQA Тестировщик (Java)",
+    "salary": "от 60 000 до 150 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166816",
+    "source": "habr.com"
+  },
+  {
+    "company": "IT_One",
+    "title": "Python разработчик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 130 000 - 335 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167414",
+    "source": "habr.com"
+  },
+  {
+    "company": "JOBCART.RU",
+    "title": "Backend-разработчик",
+    "salary": "Не указана",
+    "url": "https://spb.superjob.ru/vakansii/backend-razrabotchik-52036364.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "JOBCART.RU",
+    "title": "Инженер-программист",
+    "salary": "Не указана",
+    "url": "https://spb.superjob.ru/vakansii/inzhener-programmist-52042548.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Karma8",
+    "title": "Frontend-разработчик (vanilla JS, high-load)",
+    "salary": "от 250 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166791",
+    "source": "habr.com"
+  },
+  {
+    "company": "Netflix",
+    "title": "Стажер-специалист по искусственному интеллекту",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-specialist-po-iskusstvennomu-intellektu-51865215.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Netflix",
+    "title": "Стажер-инженер по машинному обучению",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-inzhener-po-mashinnomu-obucheniyu-51865208.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Netflix",
+    "title": "Стажер-инженер-аналитик",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-inzhener-analitik-51863773.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Netflix",
+    "title": "Стажер по обработке данных",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-po-obrabotke-dannyh-51863713.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Nevatech",
+    "title": "Fullstack разработчик",
+    "salary": "от 250 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167262",
+    "source": "habr.com"
+  },
+  {
+    "company": "Nickelodeon",
+    "title": "Техник по техническому обслуживанию (обслуживание вещательного оборудования)",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/tehnik-po-tehnicheskomu-obsluzhivaniyu-51905385.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "OZON: Старт карьеры",
+    "title": "Бизнес-аналитик (со знанием английского языка)",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/biznes-analitik-52060526.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "OZON: Старт карьеры",
+    "title": "Младший системный аналитик",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/mladshij-sistemnyj-analitik-52060503.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "OZON: Старт карьеры",
+    "title": "Младший аналитик",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/mladshij-analitik-52060474.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Okkam",
+    "title": "Стажер в отдел продуктовой разработки",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-v-otdel-produktovoj-razrabotki-51905379.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "OrangeUni",
+    "title": "Senior Backend Developer (Python, Django) with DevOps experience (AWS)",
+    "salary": "от 3000 до 4000 $",
+    "url": "https://career.habr.com/vacancies/1000167469",
+    "source": "habr.com"
+  },
+  {
+    "company": "P&G",
+    "title": "Стажер по управлению цепочками поставок",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-po-upravleniyu-cepochkami-postavok-52042774.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "PREAX",
+    "title": "Стажер Frontend-разработчик (React)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 30 000 - 93 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000162215",
+    "source": "habr.com"
+  },
+  {
+    "company": "Pinterest",
+    "title": "Стажер в области машинного обучения",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-v-oblasti-mashinnogo-obucheniya-51981322.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "RWB (Wildberries & Russ)",
+    "title": "Frontend-разработчик (React)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 276 000 - 400 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000158010",
+    "source": "habr.com"
+  },
+  {
+    "company": "RuDesktop",
+    "title": "Python-разработчик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 138 000 - 275 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167280",
+    "source": "habr.com"
+  },
+  {
+    "company": "Sette",
+    "title": "Python-разработчик (LLM/RAG/MCP)",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166811",
+    "source": "habr.com"
+  },
+  {
+    "company": "SimbirSoft",
+    "title": "SDET Java",
+    "salary": "Зарплата не указанаПохожие специалисты получают 122 000 - 210 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000163567",
+    "source": "habr.com"
+  },
+  {
+    "company": "SimbirSoft",
+    "title": "QA Engineer Fullstack (Java/Kotlin)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 125 000 - 226 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000163599",
+    "source": "habr.com"
+  },
+  {
+    "company": "Spotify",
+    "title": "Инженер по безопасности",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/inzhener-po-bezopasnosti-52030860.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "VK: Старт карьеры",
+    "title": "ML Engineer (стажер)",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/ml-engineer-52017958.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "VK: Старт карьеры",
+    "title": "Java-разработчик в команду DataTransfer стажер",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/java-razrabotchik-v-komandu-datatransfer-stazher-52023629.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Volkswagen Group",
+    "title": "Стажер направления Генеративный ИИ",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-napravleniya-generativnyj-ii-51919034.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Walalah LLC",
+    "title": "Full Stack PHP Developer",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000167251",
+    "source": "habr.com"
+  },
+  {
+    "company": "Wiregate",
+    "title": "Middle Fullstack Developer (PHP/Laravel + React)",
+    "salary": "от 2000 до 2700 $",
+    "url": "https://career.habr.com/vacancies/1000167437",
+    "source": "habr.com"
+  },
+  {
+    "company": "X5 Digital",
+    "title": "QA Automation Engineer (JavaScript/TypeScript)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 147 000 - 280 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000156020",
+    "source": "habr.com"
+  },
+  {
+    "company": "YADRO",
+    "title": "SDET / QA Automation Architect (Framework & Tooling) (KORNFELD)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 450 000 - 511 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167009",
+    "source": "habr.com"
+  },
+  {
+    "company": "YADRO",
+    "title": "Руководитель группы разработки (Python) (Цифровые сервисы)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 327 000 - 461 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167007",
+    "source": "habr.com"
+  },
+  {
+    "company": "АВТОФОРМУЛА",
+    "title": "Python-разработчик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 185 000 - 267 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167116",
+    "source": "habr.com"
+  },
+  {
+    "company": "Альфа-Банк",
+    "title": "QA Engineer Mobile fullstack (Java)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 230 000 - 337 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000146318",
+    "source": "habr.com"
+  },
+  {
+    "company": "БФТ - Холдинг",
+    "title": "Java разработчик",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166958",
+    "source": "habr.com"
+  },
+  {
+    "company": "БФТ - Холдинг",
+    "title": "Full-stack Аналитик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 157 000 - 233 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166934",
+    "source": "habr.com"
+  },
+  {
+    "company": "БЮРО 1440",
+    "title": "Старший разработчик сервисов данных (Python)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 195 000 - 350 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167287",
+    "source": "habr.com"
+  },
+  {
+    "company": "Банк России",
+    "title": "Team Lead (Java/Python)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 273 000 - 424 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167136",
+    "source": "habr.com"
+  },
+  {
+    "company": "Банк России",
+    "title": "Инженер по автоматизации тестирования java",
+    "salary": "Зарплата не указанаПохожие специалисты получают 145 000 - 229 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000165913",
+    "source": "habr.com"
+  },
+  {
+    "company": "Банк России",
+    "title": "Инженер по автоматизации тестирования (Java)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 150 000 - 233 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166182",
+    "source": "habr.com"
+  },
+  {
+    "company": "ГБОУ г. Москвы Школа № 922",
+    "title": "Учитель информатики 7-11 класс (с 01.09.2026 года)",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-7-11-klass-51273623.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "ГК Русагро",
+    "title": "Программист АСУТП",
+    "salary": "Не указана",
+    "url": "https://tambov.superjob.ru/vakansii/programmist-asutp-51780741.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "ГОУ СПО Колледж связи",
+    "title": "Мастер производственного обучения (компьютерные сети)",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/master-proizvodstvennogo-obucheniya-52033514.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "ГОУ СПО Колледж связи",
+    "title": "Преподаватель специальных дисциплин (разработка и управление программным обеспечением)",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/prepodavatel-specialnyh-disciplin-52035657.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Гринатом",
+    "title": "Python разработчик",
+    "salary": "от 150 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000142622",
+    "source": "habr.com"
+  },
+  {
+    "company": "Гринатом",
+    "title": "Python разработчик (Junior)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 87 000 - 149 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167495",
+    "source": "habr.com"
+  },
+  {
+    "company": "ИТ-компания «Лоция»",
+    "title": "Python-разработчик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 200 000 - 368 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000165251",
+    "source": "habr.com"
+  },
+  {
+    "company": "ИТ-компания «Лоция»",
+    "title": "Функциональный тестировщик / QA инженер",
+    "salary": "Зарплата не указанаПохожие специалисты получают 137 000 - 204 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000163170",
+    "source": "habr.com"
+  },
+  {
+    "company": "ИнфоТеКС",
+    "title": "Python разработчик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 200 000 - 374 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166507",
+    "source": "habr.com"
+  },
+  {
+    "company": "КРОК",
+    "title": "Стажер-разработчик DWH/ETL/Big Data",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-razrabotchik-dwh-52030634.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Коммерсантъ",
+    "title": "Программист в отдел web-проектов",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/programmist-v-otdel-web-proektov-51933255.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "ЛАНИТ",
+    "title": "Java разработчик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 200 000 - 265 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000164183",
+    "source": "habr.com"
+  },
+  {
+    "company": "Лаборатория Касперского",
+    "title": "Стажер-аналитик",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-analitik-51961680.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Лаборатория Касперского",
+    "title": "Стажер-инженер по внедрению и сопровождению технологических решений",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-inzhener-po-vnedreniyu-i-soprovozhdeniyu-tehnologicheskih-reshenij-51961499.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Лаборатория Касперского",
+    "title": "Project Manager (B2B)",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/project-manager-51961488.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "М Тех",
+    "title": "Python developer",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166918",
+    "source": "habr.com"
+  },
+  {
+    "company": "МТС Финтех",
+    "title": "Инженер по автоматизированному тестированию/QA automation Java",
+    "salary": "Зарплата не указанаПохожие специалисты получают 170 000 - 329 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167337",
+    "source": "habr.com"
+  },
+  {
+    "company": "МТС Финтех",
+    "title": "QA-инженер по нагрузочному тестированию ЦФА Хаб",
+    "salary": "Зарплата не указанаПохожие специалисты получают 175 000 - 283 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167335",
+    "source": "habr.com"
+  },
+  {
+    "company": "МТС Финтех",
+    "title": "QA-инженер по нагрузочному тестированию ЦФА Хаб",
+    "salary": "Зарплата не указанаПохожие специалисты получают 175 000 - 283 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167336",
+    "source": "habr.com"
+  },
+  {
+    "company": "Мах (Team VK company)",
+    "title": "Аналитик антифрода L3",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/analitik-antifroda-l3-51921374.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Мах (Team VK company)",
+    "title": "Ведущий java-разработчик",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/veduschij-java-razrabotchik-51921335.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Мегафон: Старт Карьеры",
+    "title": "Data Scientist",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/data-scientist-51904968.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Международный EPC-проект Генеральный подрядчик",
+    "title": "Разработчик 1С (Усть-Луга)",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/razrabotchik-1s-51145264.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Международный EPC-проект Генеральный подрядчик",
+    "title": "Разработчик 1С (Усть-Луга, Ленинградская область)",
+    "salary": "Не указана",
+    "url": "https://spb.superjob.ru/vakansii/razrabotchik-1s-52031413.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "НИИП имени В. В. Тихомирова.",
+    "title": "Разработчик 1С-Битрикс / Web-программист",
+    "salary": "Не указана",
+    "url": "https://zhukovskiy.superjob.ru/vakansii/razrabotchik-1s-bitriks-47868402.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Независимая лаборатория ИНВИТРО",
+    "title": "Ведущий специалист по информационной безопасности",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/veduschij-specialist-po-informacionnoj-bezopasnosti-52030788.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "ООО \"ИНФОТЕХ ИНТЕГРАТОР\"",
+    "title": "Бэкенд-разработчик Java, Senior",
+    "salary": "от 150 000 руб.",
+    "url": "https://ufa.rabota.ru/vacancy/50004187/?search_id=1782928725704h19wrb0qqgc",
+    "source": "rabota.ru"
+  },
+  {
+    "company": "ООО \"ССЛ\"",
+    "title": "Backend-разработчик Senior (Python)",
+    "salary": "245 000 руб.",
+    "url": "https://ufa.rabota.ru/vacancy/50533161/?search_id=17829286974087iare7yz56k",
+    "source": "rabota.ru"
+  },
+  {
+    "company": "ООО \"ССЛ\"",
+    "title": "Backend-разработчик",
+    "salary": "150 000 руб.",
+    "url": "https://ufa.rabota.ru/vacancy/50533147/?search_id=17829286974087iare7yz56k",
+    "source": "rabota.ru"
+  },
+  {
+    "company": "Онлайн-кинотеатр Иви",
+    "title": "Python-разработчик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 333 000 - 409 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000162542",
+    "source": "habr.com"
+  },
+  {
+    "company": "Онлайн-кинотеатр Иви",
+    "title": "Инженер по тестированию web",
+    "salary": "Зарплата не указанаПохожие специалисты получают 150 000 - 280 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167026",
+    "source": "habr.com"
+  },
+  {
+    "company": "ПО \"Корпус\"",
+    "title": "Стажер Техника-программиста",
+    "salary": "Не указана",
+    "url": "https://saratov.superjob.ru/vakansii/stazher-tehnika-programmista-52007496.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "РОСГОССТРАХ",
+    "title": "Java-разработчик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 300 000 - 410 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000163623",
+    "source": "habr.com"
+  },
+  {
+    "company": "РОСМЭН",
+    "title": "Аналитик",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/analitik-51994534.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "РТК-ЦОД",
+    "title": "Ведущий фронтенд-разработчик (React)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 280 000 - 437 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167021",
+    "source": "habr.com"
+  },
+  {
+    "company": "РТЛабс",
+    "title": "Инженер по тестированию (мобильные приложения)",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166722",
+    "source": "habr.com"
+  },
+  {
+    "company": "РТРС",
+    "title": "Ведущий специалист информационной безопасности",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/veduschij-specialist-informacionnoj-bezopasnosti-50791283.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Реактив",
+    "title": "Специалист по тестированию",
+    "salary": "Зарплата не указанаПохожие специалисты получают 110 000 - 180 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000167055",
+    "source": "habr.com"
+  },
+  {
+    "company": "Российские космические системы",
+    "title": "Практикант в отдел программирования Java",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/praktikant-v-otdel-programmirovaniya-java-52004736.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Русская христианская гуманитарная академия",
+    "title": "Программист",
+    "salary": "Не указана",
+    "url": "https://spb.superjob.ru/vakansii/programmist-51877311.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "СТОПФАЕР",
+    "title": "Служба в ВМП ДНР (различные должности)",
+    "salary": "Не указана",
+    "url": "https://orenburg.superjob.ru/vakansii/sluzhba-v-vmp-dnr-51901221.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "СТОПФАЕР",
+    "title": "Служба в ВМП ДНР (различные должности)",
+    "salary": "Не указана",
+    "url": "https://omsk.superjob.ru/vakansii/sluzhba-v-vmp-dnr-51901222.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Санкт-Петербургский институт экономики и управления",
+    "title": "Преподаватель (Информационные системы и технологии, Прикладная информатика)",
+    "salary": "Не указана",
+    "url": "https://spb.superjob.ru/vakansii/prepodavatel-50891586.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Сбер: Старт карьеры",
+    "title": "Стажер Продуктовый аналитик",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/stazher-produktovyj-analitik-52060359.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Т-Банк",
+    "title": "QA-инженер — Backend (Java)",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166834",
+    "source": "habr.com"
+  },
+  {
+    "company": "Т-Банк",
+    "title": "Java разработчик",
+    "salary": "Зарплата не указанаПохожие специалисты получают 293 000 - 430 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000152136",
+    "source": "habr.com"
+  },
+  {
+    "company": "Т-Банк",
+    "title": "QA-инженер — Frontend (JavaScript)",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000166835",
+    "source": "habr.com"
+  },
+  {
+    "company": "Т-Банк",
+    "title": "Frontend-разработчик React",
+    "salary": "Зарплата не указанаПохожие специалисты получают 150 000 - 245 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000080118",
+    "source": "habr.com"
+  },
+  {
+    "company": "ТТК Диджитал",
+    "title": "Backend-разработчик php (yii2)",
+    "salary": "Зарплата не указанаПохожие специалисты получают 150 000 - 220 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166951",
+    "source": "habr.com"
+  },
+  {
+    "company": "Тех стэп",
+    "title": "Аналитик баз данных",
+    "salary": "Не указана",
+    "url": "https://ufa.superjob.ru/vakansii/analitik-baz-dannyh-52014923.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Тех стэп",
+    "title": "Аналитик баз данных",
+    "salary": "Не указана",
+    "url": "https://perm.superjob.ru/vakansii/analitik-baz-dannyh-52014928.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Тех стэп",
+    "title": "Аналитик баз данных",
+    "salary": "Не указана",
+    "url": "https://samara.superjob.ru/vakansii/analitik-baz-dannyh-52014925.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Тех стэп",
+    "title": "Аналитик баз данных",
+    "salary": "Не указана",
+    "url": "https://ryazan.superjob.ru/vakansii/analitik-baz-dannyh-52014931.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Торгово-транспортное предприятие \"Острое Жало\"",
+    "title": "Верстальщик HTML/CSS",
+    "salary": "Не указана",
+    "url": "https://career.habr.com/vacancies/1000164820",
+    "source": "habr.com"
+  },
+  {
+    "company": "ФГБУ \"Центр Агроаналитики\"",
+    "title": "Аналитик BI",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/analitik-bi-52008656.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Филиал ФКУ «Налог-Сервис» ФНС России по ЦОД в г. Москве",
+    "title": "Системный администратор Linux",
+    "salary": "Не указана",
+    "url": "https://ufa.superjob.ru/vakansii/sistemnyj-administrator-linux-51877985.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Филиал ФКУ «Налог-Сервис» ФНС России по ЦОД в г. Москве",
+    "title": "Администратор баз данных (DBA) MSSQL",
+    "salary": "Не указана",
+    "url": "https://ufa.superjob.ru/vakansii/administrator-baz-dannyh-51877987.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Филиал ФКУ «Налог-Сервис» ФНС России по ЦОД в г. Москве",
+    "title": "Системный администратор ЦОД",
+    "salary": "Не указана",
+    "url": "https://ufa.superjob.ru/vakansii/sistemnyj-administrator-cod-51698092.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Филиал ФКУ «Налог-Сервис» ФНС России по ЦОД в г. Москве",
+    "title": "Системный администратор",
+    "salary": "Не указана",
+    "url": "https://volgograd.superjob.ru/vakansii/sistemnyj-administrator-51697637.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Филиал ФКУ «Налог-Сервис» ФНС России по ЦОД в г. Москве",
+    "title": "Администратор баз данных (DBA) PostgreSQL",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/administrator-baz-dannyh-51699533.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Филиал ФКУ «Налог-Сервис» ФНС России по ЦОД в г. Москве",
+    "title": "Ведущий сетевой инженер",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/veduschij-setevoj-inzhener-51699984.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Филиал ФКУ «Налог-Сервис» ФНС России по ЦОД в г. Москве",
+    "title": "Тестировщик ПО",
+    "salary": "Не указана",
+    "url": "https://tomsk.superjob.ru/vakansii/testirovschik-po-52059378.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Хайтек",
+    "title": "Старший инженер по автоматизации тестирования (Python, финтех)/ Senior AQA",
+    "salary": "Зарплата не указанаПохожие специалисты получают 241 000 - 479 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166290",
+    "source": "habr.com"
+  },
+  {
+    "company": "Шалин Оскар Андреевич",
+    "title": "Аналитик данных",
+    "salary": "70 000 — 90 000 руб.",
+    "url": "https://ufa.rabota.ru/vacancy/54299270/?search_id=17829286974087iare7yz56k",
+    "source": "rabota.ru"
+  },
+  {
+    "company": "ЭКО центр",
+    "title": "Системный инженер",
+    "salary": "Не указана",
+    "url": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-51056436.html",
+    "source": "superjob.ru"
+  },
+  {
+    "company": "Электросила",
+    "title": "Разработчик интеграций (API, Telegram, OpenAI)",
+    "salary": "от 100 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000166818",
+    "source": "habr.com"
+  },
+  {
+    "company": "Яндекс",
+    "title": "Разработчик бэкенда (Python/Django) в команду развития сотрудников",
+    "salary": "Зарплата не указанаПохожие специалисты получают 167 000 - 258 000 ₽",
+    "url": "https://career.habr.com/vacancies/1000164426",
+    "source": "habr.com"
+  }
+]

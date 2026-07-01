@@ -1,0 +1,6 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+.server.pid 
+vacancies.json 
+.DS_Store 

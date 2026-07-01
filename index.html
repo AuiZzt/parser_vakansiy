@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Вакансии Уфы | Агрегатор</title>
+    
+    <!-- Подключаем внешний CSS -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Font Awesome для иконок -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+<div class="container">
+    <!-- ===== HEADER ===== -->
+    <div class="header">
+        <div class="header-left">
+            <i class="fas fa-briefcase" style="font-size: 36px; color: #667eea;"></i>
+            <h1>IT Вакансии Уфы</h1>
+        </div>
+        <div class="header-actions">
+            <button class="btn btn-primary" id="refreshBtn">
+                <i class="fas fa-sync-alt"></i> Обновить
+            </button>
+            <button class="btn btn-dark" id="themeToggle">
+                <i class="fas fa-moon"></i> Тёмная
+            </button>
+        </div>
+    </div>
+
+    <!-- ===== STATS ===== -->
+    <div class="stats-bar">
+        <div class="stat-item">
+            <i class="fas fa-list"></i>
+            <span class="number" id="countResult">0</span>
+            <span class="label">вакансий</span>
+        </div>
+        <div class="stat-item">
+            <i class="fas fa-building"></i>
+            <span class="number" id="companyCount">0</span>
+            <span class="label">компаний</span>
+        </div>
+        <div class="stat-item">
+            <i class="fas fa-tag"></i>
+            <span class="number" id="sourceCount">0</span>
+            <span class="label">источников</span>
+        </div>
+    </div>
+
+    <!-- ===== FILTERS ===== -->
+    <div class="filters">
+        <div class="filter-group">
+            <i class="fas fa-search"></i>
+            <input type="text" id="searchInput" placeholder="Поиск по должности...">
+        </div>
+        <div class="filter-group">
+            <i class="fas fa-building"></i>
+            <select id="companyFilter">
+                <option value="">Все компании</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <i class="fas fa-sort"></i>
+            <select id="sortSelect">
+                <option value="default">По умолчанию</option>
+                <option value="salary-asc">Зарплата ↑</option>
+                <option value="salary-desc">Зарплата ↓</option>
+                <option value="company">Компания (А-Я)</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- ===== VACANCIES ===== -->
+    <div id="vacanciesContainer">
+        <div class="vacancies-grid" id="vacanciesGrid"></div>
+    </div>
+</div>
+
+<!-- Подключаем внешний JavaScript -->
+<script src="script.js"></script>
+
+</body>
+</html>
